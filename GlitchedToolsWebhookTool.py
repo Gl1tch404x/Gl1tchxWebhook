@@ -1,3 +1,5 @@
+#Made by Gl1tch : https://github.com/Gl1tch404x
+
 import os
 import sys
 import json
